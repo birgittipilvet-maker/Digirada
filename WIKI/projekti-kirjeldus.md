@@ -25,7 +25,7 @@ Meie eesmärk on luua platvorm, kus õpetaja saab järk-järgult arendada oma di
 
 ## Probleem või vajadus
 
-Mis on see küsimus, mure või vajadus, millele teie projekt vastab?
+Digipäedvus on üks riikliku õppekava üldpädevustest ja selle kujundamine on iga aineõpetaja ülesanne. Selleks peab õpetaja ise digivahendeid kindlalt valdama, kuid paljudel õpetajatel puudub lihtne ja järjepidev võimalus oma oskusi arendada. Täiendkoolitused on sageli ühekordsed ja üldised ning nende järel jääb õpitu tihti kasutama. Kui aineõpetaja ei tunne end digivahendites kindlalt, liigub ka põhiliste arvutioskuste õpetamine informaatikaõpetajale, keda on koolides niigi vähe.
 
 ## Eesmärk
 
@@ -37,15 +37,7 @@ Projekti sihtrühm on õpetajad.
 
 ## Projekti tulemus
 
-Mis projekti lõpuks valmib?
-
-Näiteks:
-- veebileht
-- mäng
-- rakendus
-- video
-- digitaalne õppematerjal
-- prototüüp
+Projekti lõpuks valmib prototüüp "Digirada" õpikeskkonnast. 
 
 ## Projekti peamised osad
 
@@ -65,11 +57,10 @@ Milliseid töövahendeid või keskkondi te kasutate?
 
 ## Meeskonna rollid
 
-Kes mille eest vastutab?
-
-- 
-- 
-- 
+Sander -
+Vaiko - 
+Birgitti - 
+Sandra
 
 ## Võimalikud riskid
 
