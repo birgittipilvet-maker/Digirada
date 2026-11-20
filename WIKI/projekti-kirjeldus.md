@@ -57,10 +57,10 @@ Milliseid töövahendeid või keskkondi te kasutate?
 
 ## Meeskonna rollid
 
-Sander ja Vaiko vastutavad peamiselt prototüübi loomise eest.  
-Birgitti ja Sandra on loonud persoona ja stsenaariumid. 
+Sander ja Vaiko vastutavad taustauuringu ja peamiselt prototüübi loomise eest.  
+Birgitti ja Sandra vastutavad persoona ja stsenaariumite eest. 
 
-Meeskond jagab enda tehtud töid ning täiendavad seda. Lisaks tehakse koosolekuid ja suheldakse aktiivselt suhtluskanalis Messenger. Taustauuringuga tegelesid kõik tiimiliikmed.
+Meeskond jagab enda tehtud töid ning täiendavad seda. Lisaks tehakse koosolekuid ja suheldakse aktiivselt suhtluskanalis Messenger.
 
 ## Võimalikud riskid
 
