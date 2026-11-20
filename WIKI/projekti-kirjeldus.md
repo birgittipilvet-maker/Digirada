@@ -1,6 +1,6 @@
 # Projekti kirjeldus
 
-Kirjuta siia lühidalt ja arusaadavalt, mis projektiga on tegu.
+Meie eesmärk on luua platvorm, kus õpetaja saab järk-järgult arendada oma digipädevust praktiliste ülesannete kaudu, liikudes edasi alles siis, kui eelmine oskus on omandatud. Iga ülesande tulemus on kohe õppetöös kasutatav ja omandatud oskusi tõendab tunnistust.
 
 ## Projekti pealkiri
 
