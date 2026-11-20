@@ -4,6 +4,8 @@ Meie eesmärk on luua platvorm, kus õpetaja saab järk-järgult arendada oma di
 
 ## Projekti pealkiri
 
+Õpikeskkonna "Digirada" prototüübi arendus
+
 ## Projekti autorid
 
 - Sander Aavere
