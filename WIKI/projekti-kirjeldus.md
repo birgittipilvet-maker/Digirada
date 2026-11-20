@@ -21,7 +21,7 @@ Meie eesmärk on luua platvorm, kus õpetaja saab järk-järgult arendada oma di
 
 ## Projekti idee
 
-Kirjelda 2–4 lausega, mida te soovite teha.
+Meie eesmärk on luua platvorm, kus õpetaja saab järk-järgult arendada oma digipädevust praktiliste ülesannete kaudu, liikudes edasi alles siis, kui eelmine oskus on omandatud. Iga ülesande tulemus on kohe õppetöös kasutatav ja omandatud oskusi tõendab tunnistust.
 
 ## Probleem või vajadus
 
@@ -29,7 +29,7 @@ Mis on see küsimus, mure või vajadus, millele teie projekt vastab?
 
 ## Eesmärk
 
-Mida te tahate selle projektiga saavutada?
+Meie eesmärk on luua platvorm, kus õpetaja saab järk-järgult arendada oma digipädevust praktiliste ülesannete kaudu, liikudes edasi alles siis, kui eelmine oskus on omandatud. Iga ülesande tulemus on kohe õppetöös kasutatav ja omandatud oskusi tõendab tunnistust.
 
 ## Sihtrühm
 
