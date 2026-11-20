@@ -6,13 +6,16 @@ Kirjuta siia lühidalt ja arusaadavalt, mis projektiga on tegu.
 
 ## Projekti autorid
 
-- 
-- 
-- 
+- Sander Aavere
+- Vaiko Noor
+- Birgitti Pilvet
+- Sandra Saarniit
 
 ## Juhendaja
 
-- 
+- Mart Laanpere
+- Hans Põldoja
+- Elyna Heinmäe
 
 ## Projekti idee
 
