@@ -4,66 +4,73 @@ Pärast persoonade loomist tehakse kasutamise stsenaariumid.md ehk jutustused v�
 
 **Stsenaarium peaks vastama küsimustele:**
 
-- kes seda toodet või teenust kasutab
-- mida ta teha tahab
-- mis on selle tegevuse sammud
-- mis olukorras kasutaja on
-- miks see on talle oluline
-- milline tulemus peaks sündima
-- mis juhtub lõpuks
+- õpetajad
+- digipädevust arendada
+- õpetaja saab järk-järgult arendada oma digipädevust praktiliste ülesannete kaudu, liikudes edasi alles siis, kui eelmine oskus on omandatud
+- kasutaja rollis, teadvustab, mis ta digipädevuse tase on
+- saab oma digipädevust arendada 
+- digipädevuste tasemete määramine ja läbi selle toimuv areng
+- saab vastavalt tasemele tunnistuse 
 
 ## Stsenaarium 1
 
 ### Pealkiri
-Mari kontrollib oma järgmisi ülesandeid
+Anna Kiik soovib oma digipädevust arendada
 
 ### Kes seda teeb?
-Mari, 8. klassi õpilane
+Anna Kiik, algklasside õpetaja
 
 ### Mida ta tahab teha?
-Ta tahab näha, millised ülesanded on tema grupil teha ja mille eest tema vastutab.
+Ta tahab oma digipädevust hinnata ja selle taset tõsta 
 
 ### Kuidas see toimub?
-1. Mari avab projekti repositooriumi.
-2. Ta vaatab juhiseid ja ülesandeid.
-3. Ta leiab enda tööülesande.
-4. Ta saab aru, mida peab järgmisena tegema.
+1. Anna saab koodi, millega logib keskkonda 
+2. Ta läbib enesetesti
+3. Peale seda saab ta suunised edasisteks tegevusteks
+4. Saab testida oma digipädevusi ja vastavalt suunitlustele õppematerjali läbida. Seejärel valida sobivad testid. 
 
 ### Mis on tulemus?
-Mari teab, mis on tema järgmine ülesanne ja saab tööga edasi minna.
+Anna saab õpitud oskusi enda töös kasutada ja seeläbi tööd lihtsustada
 
 ---
 
 ## Stsenaarium 2
 
 ### Pealkiri
+Lily Aus, kes on oma töös harjunud kasutama traditsioonilisi õpetamismeetodei
 
 ### Kes seda teeb?
+Lily Aus, eesti keele õpetaja 
 
 ### Mida ta tahab teha?
+Ta pole väga digitehnoloogiast huvitatud ning eelistab enda paberit ja pliiatsit. Samas kõnetab teda asjaolu, et tehnoloogiaga tema töö kiireneb. 
 
 ### Kuidas see toimub?
-1.
-2.
-3.
-4.
+1. Lily saab koodi, millega logib keskkonda 
+2. Ta läbib enesetesti
+3. Peale seda saab ta suunised edasisteks tegevusteks
+4. Saab testida oma digipädevusi ja vastavalt suunitlustele õppematerjali läbida. Seejärel valida sobivad testid. 
 
 ### Mis on tulemus?
-
+Lily saab oma tööd kiiremaks muuta 
 ---
 
 ## Stsenaarium 3
 
 ### Pealkiri
+Kaia Maasikas, digipädev direktor
 
 ### Kes seda teeb?
+Koolis töötav digipädev õpetaja, kes soovib enda tedmisi arendada 
 
 ### Mida ta tahab teha?
+Ta tahab lõimida digipädevuse arendamise koolitusteks. Toetata õpetajate professionaalset arengut. 
 
 ### Kuidas see toimub?
-1.
-2.
-3.
-4.
+1. Ta vajab keskkonda, mis aitab arendada õpetajate digipädevusi
+3. Ta saab ligipääsu meie programmi ja logib sinna sisse 
+4. Läbib testid ja katsed, mida ta sooviks lasta õpetajatel läbida
+5. Hindab, kas programm on õpetajatele piisav 
 
 ### Mis on tulemus?
+Talle meeldib keskkond, ta õpib ise ka läbi selle ja parandab ka enda digipädevust. 
