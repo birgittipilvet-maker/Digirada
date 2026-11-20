@@ -31,14 +31,7 @@ Mida te tahate selle projektiga saavutada?
 
 ## Sihtrühm
 
-Kellele see projekt on mõeldud?
-
-Näiteks:
-- õpilased
-- õpetajad
-- lapsevanemad
-- noored
-- mingi kindel huvirühm
+Projekti sihtrühm on õpetajad.
 
 ## Projekti tulemus
 
